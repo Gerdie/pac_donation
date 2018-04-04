@@ -21,4 +21,4 @@ The donation form was built using the Square API client PHP library. Project man
 
 The AGC PAC donation form was developed by Maria Moy in her capacity as a Web Developer at the Associated General Contractors of America. Find her on [LinkedIn]
 (http://www.linkedin.com/in/maria-k-moy) or [GitHub]
-(http://www.github.com/gerdie). Maria is a software engineering fellow and freelance WordPress developer living in San Francisco.
+(http://www.github.com/gerdie). Maria is a software engineer and freelance WordPress developer living in San Francisco.
